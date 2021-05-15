@@ -31,7 +31,7 @@
     "react": "^16.12.0",
     "react-app-polyfill": "^1.0.6",
     "react-autosuggest": "^10.0.0",
-    "react-awesome-player": "^1.0.11",
+    "react-awesome-player": "1.1.0",
     "react-chartjs-2": "^2.9.0",
     "react-dnd": "^7.7.0",
     "react-dnd-html5-backend": "^7.7.0",
