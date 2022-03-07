@@ -42,7 +42,7 @@
     "react-router-dom": "~5.2.0",
     "react-test-renderer": "^16.12.0",
     "react-toastify": "^6.0.0",
-    "reactstrap": "^8.4.1",
+    "reactstrap": "8.10.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "simple-line-icons": "^2.4.1",
