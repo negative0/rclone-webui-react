@@ -17,7 +17,7 @@
     "@coreui/icons": "0.3.0",
     "@coreui/react": "^2.5.4",
     "axios": "^0.19.2",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "4.6.2",
     "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
     "core-js": "^3.6.4",
